@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/resources/views/articles/show.blade.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/app/User.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/config/app.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/app/Article.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/resources/views/articles/form.blade.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/app/Http/routes.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/resources/views/app.blade.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/resources/views/articles/index.blade.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/app/Http/Controllers/HomeController.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/resources/views/articles/create.blade.php</file>
+            <file>file:/E:/Web/xampp/htdocs/laravel_dev/app/Http/Controllers/ArticlesController.php</file>
+        </group>
+    </open-files>
+</project-private>
